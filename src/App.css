@@ -1,0 +1,22 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+}
+
+body {
+  text-align: center;
+}
+
+.pupList {
+  display: flex;
+  flex-direction: column;
+}
+
+.pupList > a {
+  padding: 0.5rem;
+}
+
+body {
+  background-color: black;
+  color: whitesmoke;
+}
